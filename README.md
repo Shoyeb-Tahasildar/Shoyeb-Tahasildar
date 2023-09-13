@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning  Kubernetes and AWS Cloud   
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to the MERN stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -149,13 +149,13 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
+<!--             <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
                 />
-            </a></div>
+            </a></div> -->
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Generated using <a href="" target="_blank">Github Profilinator</a></div>
